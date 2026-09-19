@@ -5,120 +5,288 @@
       "id": "001",
       "title": "أسمو",
       "artist": "محمد المقيط",
-      "artistId": "mohammed_al_muqit",
-      "audioUrl": "https://h.top4top.io/m_3913b5o3o1.mp3",
-      "image": "mohammed_al_muqit.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/asmo.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
       "isActive": true
     },
     {
       "id": "002",
       "title": "الأرض ميدان",
       "artist": "محمد المقيط",
-      "artistId": "mohammed_al_muqit",
-      "audioUrl": "https://i.top4top.io/m_3913shdjx2.mp3",
-      "image": "mohammed_al_muqit.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/alard_mydan.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
       "isActive": true
     },
     {
       "id": "003",
       "title": "مصطفى الله",
       "artist": "وضاح اللزامي",
-      "artistId": "wadah_al_lizami",
-      "audioUrl": "https://j.top4top.io/m_3913z99kr3.mp3",
-      "image": "wadah.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/mustafa_allah.mp3",
+      "imagePath": "assets/images/wadah.png",
       "isActive": true
     },
     {
       "id": "004",
       "title": "الخلفاء الراشدين",
       "artist": "محمد المقيط",
-      "artistId": "mohammed_al_muqit",
-      "audioUrl": "https://k.top4top.io/m_3913qmy6g4.mp3",
-      "image": "mohammed_al_muqit.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/alkulafa_alrashedin.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
       "isActive": true
     },
     {
       "id": "005",
       "title": "أو تدري",
       "artist": "علاء ناجي",
-      "artistId": "alaa_naji",
-      "audioUrl": "https://l.top4top.io/m_3913u23x75.mp3",
-      "image": "alaa_naji.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/aoatadry.mp3",
+      "imagePath": "assets/images/alaa_naji.png",
       "isActive": true
     },
     {
       "id": "006",
       "title": "سيد الشفعاء",
       "artist": "محمد المقيط",
-      "artistId": "mohammed_al_muqit",
-      "audioUrl": "https://a.top4top.io/m_39138a69t6.mp3",
-      "image": "mohammed_al_muqit.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/syed_alshofaa.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
       "isActive": true
     },
     {
       "id": "007",
       "title": "حصن الأذكار",
       "artist": "محمد المقيط",
-      "artistId": "mohammed_al_muqit",
-      "audioUrl": "https://b.top4top.io/m_3913duest7.mp3",
-      "image": "mohammed_al_muqit.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/husin_alathkar.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
       "isActive": true
     },
     {
       "id": "008",
       "title": "مصطفى مصطفى",
       "artist": "مشاري العفاسي",
-      "artistId": "alafasy",
-      "audioUrl": "https://c.top4top.io/m_3913xcz8l8.mp3",
-      "image": "alafasy.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/mostafa.mp3",
+      "imagePath": "assets/images/alafasy.png",
       "isActive": true
     },
     {
       "id": "009",
       "title": "يا حافظ القرآن",
-      "artist": "المنشد أبو علي",
-      "artistId": "abu_ali",
-      "audioUrl": "https://d.top4top.io/m_3913wmfk79.mp3",
-      "image": "default_artist.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "artist": "المنشد ابو علي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/ya_hafez.mp3",
+      "imagePath": "assets/images/default_artist.png",
       "isActive": true
     },
     {
       "id": "010",
       "title": "عروسة النور",
       "artist": "محمد المقيط",
-      "artistId": "mohammed_al_muqit",
-      "audioUrl": "https://e.top4top.io/m_3913el9p810.mp3",
-      "image": "mohammed_al_muqit.png",
-      "downloadEnabled": true,
-      "isNew": false,
-      "isFeatured": false,
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/arosat-alnoor.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
+      "isActive": true
+    },
+    {
+      "id": "011",
+      "title": "طال ليلي",
+      "artist": "يوسف الأيوب",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/talalyli.mp3",
+      "imagePath": "assets/images/youssef.png",
+      "isActive": true
+    },
+    {
+      "id": "012",
+      "title": "رحمن يا رحمن",
+      "artist": "مشاري العفاسي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/rahman.mp3",
+      "imagePath": "assets/images/alafasy.png",
+      "isActive": true
+    },
+    {
+      "id": "013",
+      "title": "أقبلت ربي",
+      "artist": "سامي الصبحي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/3.mp3",
+      "imagePath": "assets/images/sami.png",
+      "isActive": true
+    },
+    {
+      "id": "014",
+      "title": "أرأيت أعظم من إلهاك أتقنا",
+      "artist": "فارس الحيدري",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/1.mp3",
+      "imagePath": "assets/images/fares.png",
+      "isActive": true
+    },
+    {
+      "id": "015",
+      "title": "اشكو فهل لي يا الهي نفحة",
+      "artist": "محمد هشام",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/2.mp3",
+      "imagePath": "assets/images/husham.png",
+      "isActive": true
+    },
+    {
+      "id": "016",
+      "title": "الخليل المصطفى",
+      "artist": "علاء ناجي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/4.mp3",
+      "imagePath": "assets/images/alaa_naji.png",
+      "isActive": true
+    },
+    {
+      "id": "017",
+      "title": "الصلاة على رسول الله",
+      "artist": "اسلام صبحي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/5.mp3",
+      "imagePath": "assets/images/islamsubhi.png",
+      "isActive": true
+    },
+    {
+      "id": "018",
+      "title": "القلب ضمآن",
+      "artist": "حذيفة الكعيد",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/6.mp3",
+      "imagePath": "assets/images/huthyfa.png",
+      "isActive": true
+    },
+    {
+      "id": "019",
+      "title": "إلهي بمن أرتجي",
+      "artist": "اسلام صبحي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/7.mp3",
+      "imagePath": "assets/images/islamsubhi.png",
+      "isActive": true
+    },
+    {
+      "id": "020",
+      "title": "تفضل إلهي",
+      "artist": "مشاري العفاسي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/8.mp3",
+      "imagePath": "assets/images/alafasy.png",
+      "isActive": true
+    },
+    {
+      "id": "021",
+      "title": "خير الدرر",
+      "artist": "محمد المقيط",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/9.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
+      "isActive": true
+    },
+    {
+      "id": "022",
+      "title": "درة النور",
+      "artist": "محمد المقيط",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/10.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
+      "isActive": true
+    },
+    {
+      "id": "023",
+      "title": "سأقبل يا خالقي",
+      "artist": "إسلام صبحي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/11.mp3",
+      "imagePath": "assets/images/islamsubhi.png",
+      "isActive": true
+    },
+    {
+      "id": "024",
+      "title": "سيبقى اشتياقي",
+      "artist": "مشاري العفاسي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/12.mp3",
+      "imagePath": "assets/images/alafasy.png",
+      "isActive": true
+    },
+    {
+      "id": "025",
+      "title": "ضياء الأذكار",
+      "artist": "احمد النجار",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/13.mp3",
+      "imagePath": "assets/images/alnjar.png",
+      "isActive": true
+    },
+    {
+      "id": "026",
+      "title": "علا ذكراه",
+      "artist": "سامي الصبحي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/14.mp3",
+      "imagePath": "assets/images/sami.png",
+      "isActive": true
+    },
+    {
+      "id": "027",
+      "title": "قل للحبيب",
+      "artist": "أياد مهرة",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/15.mp3",
+      "imagePath": "assets/images/ayad.png",
+      "isActive": true
+    },
+    {
+      "id": "028",
+      "title": "كشوق الليالي",
+      "artist": "محمد العمري",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/16.mp3",
+      "imagePath": "assets/images/alomary.png",
+      "isActive": true
+    },
+    {
+      "id": "029",
+      "title": "كل القلوب إلى الحبيب تميل",
+      "artist": "اسلام صبحي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/17.mp3",
+      "imagePath": "assets/images/islamsubhi.png",
+      "isActive": true
+    },
+    {
+      "id": "030",
+      "title": "لأجلك يا رب",
+      "artist": "محمد المقيط",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/18.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
+      "isActive": true
+    },
+    {
+      "id": "031",
+      "title": "ما أعدلك",
+      "artist": "محمد المقيط",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/19.mp3",
+      "imagePath": "assets/images/mohammed_al_muqit.png",
+      "isActive": true
+    },
+    {
+      "id": "032",
+      "title": "مالنا مولى سوى الله",
+      "artist": "احمد النجار",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/20.mp3",
+      "imagePath": "assets/images/alnjar.png",
+      "isActive": true
+    },
+    {
+      "id": "033",
+      "title": "مالي وقفت على القبور",
+      "artist": "إسلام صبحي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/21.mp3",
+      "imagePath": "assets/images/islamsubhi.png",
+      "isActive": true
+    },
+    {
+      "id": "034",
+      "title": "من حبك أوقدت حنيني",
+      "artist": "علاء ناجي",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/22.mp3",
+      "imagePath": "assets/images/alaa_naji.png",
+      "isActive": true
+    },
+    {
+      "id": "035",
+      "title": "هي جنة طابت",
+      "artist": "ناصر السعيد",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/23.mp3",
+      "imagePath": "assets/images/naser_alsaeed.png",
+      "isActive": true
+    },
+    {
+      "id": "036",
+      "title": "ناجي ربك",
+      "artist": "احمد النفيس",
+      "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/naji.mp3",
+      "imagePath": "assets/images/nafees.png",
       "isActive": true
     }
   ]
