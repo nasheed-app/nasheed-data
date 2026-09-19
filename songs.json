@@ -180,7 +180,7 @@
     {
       "id": "023",
       "title": "سأقبل يا خالقي",
-      "artist": "إسلام صبحي",
+      "artist": "اسلام صبحي",
       "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/11.mp3",
       "imagePath": "assets/images/islamsubhi.png",
       "isActive": true
@@ -260,7 +260,7 @@
     {
       "id": "033",
       "title": "مالي وقفت على القبور",
-      "artist": "إسلام صبحي",
+      "artist": "اسلام صبحي",
       "audioUrl": "https://pub-e72cb0dc288f443bab1f0645c63f8e1a.r2.dev/audio/21.mp3",
       "imagePath": "assets/images/islamsubhi.png",
       "isActive": true
